@@ -30,7 +30,7 @@ Your Playlist class should include the following methods:
 
   * Returns a message indicating that the playlist has been shuffled.
 
-Example Usage
+#### Example Usage
 ```
 const playlist = new Playlist();  
 console.log(playlist.addSong("Song A"));  // Output: Added 'Song A' to the playlist.  
