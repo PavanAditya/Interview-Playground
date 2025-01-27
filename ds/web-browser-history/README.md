@@ -10,7 +10,9 @@ You are building a web browser. Implement a browser history that supports the fo
 #### Class Definition
 
 ```visit(url)```: Updates "current url" with the given url and load it into the browser. Maintains it in history list.
+
 ```back()```: Moves one step back in the browsing history and returns the URL, returns current url if none.
+
 ```forward()```: Moves one step forward in the browsing history and returns the URL.
 
 #### Example Usage
